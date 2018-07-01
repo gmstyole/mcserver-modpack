@@ -8,7 +8,7 @@ Step 2: Download each of the mods (the .jar files), and place them in the mods f
 
 Step 3: To find your roaming directory for minecraft, press the windows button, type %appdata% with the percent signs included in your windows search bar, and press enter to search.  There you will find the roaming directory, inside you will find a folder named .minecraft.  Open the .minecraft folder and place the mods inside the mods folder, if there is not a mods folder, create one and call it 'mods'.
 
-Step 4: Download the configs.zip file, and place each of the files (.cfg) into the config folder, found in your .minecraft main folder.  Some of the config files belong in their own folders, which I have included just for reference.  Do not over write the AM2 folder or the biomesoplenty folder, just place the config files inside those folders into the appropriate folders with the same name.
+Step 4: Download the configs.zip file, and place each of the files (.cfg) into the config folder, found in your .minecraft main folder.  Some of the config files belong in their own folders, which I have included just for reference.  Do not over write the AM2 folder or the biomesoplenty folder, just place the config files inside those folders into the appropriate folders with the same name.  Make sure to over write any old config files that you're updating with the new ones, they should have the same names.
 
 Step 5: Download the shaderpacks.zip file, and copy/paste the entire folder called 'shaders' into your .minecraft folder.  If you already have a shaders folder with files in it, do not over write the folder, just place all the files inside the zip into the shaders folder.
 
