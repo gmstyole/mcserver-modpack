@@ -10,7 +10,7 @@ Step 3: To find your roaming directory for minecraft, press the windows button, 
 
 Step 4: Download the configs.zip file, and place each of the files (.cfg) into the config folder, found in your .minecraft main folder.  Some of the config files belong in their own folders, which I have included just for reference.  Do not over write the AM2 folder or the biomesoplenty folder, just place the config files inside those folders into the appropriate folders with the same name.
 
-Step 5: Download the shaders.zip file, and copy/paste the entire folder called 'shaders' into your .minecraft folder.  If you already have a shaders folder with files in it, do not over write the folder, just place all the files inside the zip into the shaders folder.
+Step 5: Download the shaderpacks.zip file, and copy/paste the entire folder called 'shaders' into your .minecraft folder.  If you already have a shaders folder with files in it, do not over write the folder, just place all the files inside the zip into the shaders folder.
 
 Step 6: Play minecraft!  The server modpack is currently in beta testing, if you find any bugs or glitches report them to the minecraft channel.  If your computer is decent at video gaming, you can play minecraft with shaders which add lighting and shadow effects to the game for a more realistic visual experience.  I personally recommend the 'enhanced basic textures' shader pack.
 
